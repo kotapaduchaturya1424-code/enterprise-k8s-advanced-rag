@@ -1,4 +1,4 @@
-# Enterprise Advanced RAG for Kubernetes IT Operations
+# Enterprise Advanced RAG for Kubernetes IT Operations 
 
 Production-grade Enterprise RAG system designed for Kubernetes SRE Copilot using LangGraph, FastAPI, Qdrant, PostgreSQL, and Redis.
 
