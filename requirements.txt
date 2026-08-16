@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langgraph
+langchain
+qdrant-client
+redis
+psycopg2-binary
+sentence-transformers
+ragas
+streamlit
+pydantic
+pyyaml
